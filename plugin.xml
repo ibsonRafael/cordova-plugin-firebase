@@ -3,6 +3,9 @@
 xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>Google Firebase Plugin</name>
+	<description>
+		Plugin para usar o google firebase
+	    </description>
 
 	<license>MIT</license>
 
